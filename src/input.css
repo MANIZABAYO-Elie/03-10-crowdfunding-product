@@ -1,0 +1,8 @@
+ header{
+    background-image: url(../images/image-hero-desktop.jpg);
+    background-size: 1000px 800px;
+} 
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities
