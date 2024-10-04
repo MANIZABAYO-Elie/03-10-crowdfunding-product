@@ -1,11 +1,4 @@
-header{
-  background-image: url(../images/image-hero-desktop.jpg);
-  background-size: 1000px 800px;
-  background-repeat: no-repeat;
-  margin: auto;
-}
-
-*, ::before, ::after{
+*, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -59,7 +52,7 @@ header{
   --tw-contain-style:  ;
 }
 
-::backdrop{
+::backdrop {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
