@@ -1,3 +1,9 @@
+nav{
+    display: flex;
+    position :absolute;
+    left: -1000px;
+}
+
 
 @tailwind base;
 @tailwind components;
